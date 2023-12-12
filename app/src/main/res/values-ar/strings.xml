@@ -8,4 +8,7 @@
     <string name="help_center">مركز المساعدة</string>
     <string name="sing_up_for_facebook">انشاء حساب جديد</string>
     <string name="applogo">appLogo</string>
+    <string name="time_counter">5 س .</string>
+    <string name="comments_counter">5 تعليقات</string>
+    <string name="share_counter">2 مشاركة</string>
 </resources>
